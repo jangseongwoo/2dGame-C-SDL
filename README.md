@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/Day8/re-frame.svg)](license.txt)
 
 
-<img align="center" src="aquaFight/images/play.png" width="500" height="281">
+<img align="center" src="2dgame/images/play.png" width="500" height="281">
 
 ## 프로젝트 설명
 
@@ -15,7 +15,7 @@
 그래서 가장 힘든 것(오래 걸리는 것)을 먼저 함으로써 그래도 95%의 완성률로 갈 수 있었고 한번에 몰아서 하는 것보다 계획이 일주일 단위라면 적절한 분배로 하는 것이 더 효율적이라는 것을 알게 되었습니다.<br>
 개발하면서 스프라이트 확보하는 게 힘들었었는데 캐릭터 스프라이트를 직접 캡춰해서 하다 보니 시간이 너무 오래 걸리고 지루해 집중력도 저하되었습니다. 차라리 코딩하는게 맘 편하다는 생각을 했었습니다.
 
-<img src="aquaFight/images/sc2.png" width="500" height="231">
+<img src="2dgame/images/sc2.png" width="500" height="231">
 
 ## 게임 설명
 - 게임 요약: 이 게임은 여러 종류의 캐릭터들이 나와 성을 지키며 싸우는 디펜스 게임입니다. 선과 악의 대립구조로 공중 유닛과 지상 유닛으로 구성되며 유닛들은 중세부터 현대까지 다양한 유닛들이 출현합니다. 
