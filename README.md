@@ -1,6 +1,6 @@
-# aquaFight - C/C++/SDL
+# 2D Game - C/C++/SDL
 
-> _C_ 와 _C++_, _SDL library_ 를 이용해 윈도우 어플리케이션을 제작한 프로젝트입니다.
+> _C와 C++, SDL library_  를 이용해 윈도우 어플리케이션을 제작한 프로젝트입니다.
 
 [![GitHub license](https://img.shields.io/github/license/Day8/re-frame.svg)](license.txt)
 
@@ -87,12 +87,12 @@ private:
 ## 실행 방법
 
 
-1. [git clone](https://github.com/jangseongwoo/aquaFight-C-SDL.git) 을 하세요.
+1. [git clone](https://github.com/jangseongwoo/2dGame-C-SDL.git) 을 하세요.
 ```sh
-git clone https://github.com/jangseongwoo/aquaFight-C-SDL.git
+git clone https://github.com/jangseongwoo/2dGame-C-SDL.git
 ```
 
-2. Visual studio의 프로젝트 열기로  aquaFight  _프로젝트소스_ 폴더를 열어주세요.
+2. Visual studio의 프로젝트 열기로  2dgame  _프로젝트소스_ 폴더를 열어주세요.
 
 3. Visual studio로 프로젝트를 컴파일 및 빌드 해주시면 실행됩니다.
 
@@ -103,7 +103,7 @@ git clone https://github.com/jangseongwoo/aquaFight-C-SDL.git
 
 ## 정보
 
-프로젝트에 대한 더 자세한 정보를 원하신다면,  aquaFight 폴더 내에 있는 _SDL_보고서.pptx_ 를 참조해주세요.
+프로젝트에 대한 더 자세한 정보를 원하신다면,  2dgame 폴더 내에 있는 _SDL_보고서.pptx_ 를 참조해주세요.
 
 장성우 – [@facebook](https://www.facebook.com/profile.php?id=100007028118707&ref=bookmarks) – seongwoo.dev@gmail.com
 
